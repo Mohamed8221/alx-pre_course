@@ -1,2 +1,21 @@
 #!/bin/bash
 echo "ALX School is so cool!"
+<<<<<<< HEAD
+# Content from the current branch (main)
+# Keep any changes you made in the main branch
+# Delete any conflicting lines from the update_script branch
+# Add any missing lines from the update_script branch
+# Resolve any conflicts manually
+# Example:
+# Line from the main branch
+# Line from the main branch
+=======
+# Content from the branch being merged (update_script)
+# Keep any changes you made in the update_script branch
+# Delete any conflicting lines from the main branch
+# Add any missing lines from the main branch
+# Resolve any conflicts manually
+# Example:
+# Line from the update_script branch
+# Line from the update_script branch
+>>>>>>> update_script
